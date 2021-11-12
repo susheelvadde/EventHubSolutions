@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=svaddetest;AccountKey=IyAP/vnGImXhfwp2mCEeN2+jcBfgYtT1N7RSUx/zagApelImpAmcbXwmYT0EpkPJzVqKyYfSZnuvly3ZSAJ7vA==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "myeventhubsvadde_RootManageSharedAccessKey_EVENTHUB": "Endpoint=sb://myeventhub-svadde.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=QYKlIsP8QLbd6WbrJcU2mS1vSAfLCSlc/u9sTJGB9jU=;EntityPath=test"
+  }
+}
